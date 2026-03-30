@@ -16,4 +16,4 @@ Observação
 
 Este repositório reflete meu processo de aprendizado, então os códigos podem evoluir e melhorar com o tempo.
 
-email:rafaelogurireis@gmail.com
+email: rafaelogurireis@gmail.com
